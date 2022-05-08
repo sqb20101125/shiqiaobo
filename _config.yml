@@ -88,7 +88,8 @@ google_analytics:
 
 utteranc:
   repo: sqb20101125/shiqiaobo
-  issue-term: "pathname"
+  issue_term: pathname
+  
 #
 # !! 以下所有设置都不需要更改 !!
 #
