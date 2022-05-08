@@ -55,7 +55,7 @@ footer-links:
   email: shiqiaobo2022@163.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: sqb20101125.5/shiqiaobo
+  github: sqb20101125/shiqiaobo
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
@@ -87,8 +87,8 @@ gitalk:
 google_analytics:
 
 utteranc:
-  repo: # Your github repo path, also see: https://utteranc.es
-
+  repo: sqb20101125/shiqiaobo
+  issue-term: "pathname"
 #
 # !! 以下所有设置都不需要更改 !!
 #
